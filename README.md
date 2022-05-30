@@ -1,4 +1,1 @@
-Account balance: 11989466454990449692
-IterableMappingLibrary deployed to: 0x237F58eAD7C4A077BCD81E4F88c966B37100D3eE
-$Wraith deployed to: 0x932FD142a4476EBa136f1A115f64B95759eB0091
-$WraithDividendTracker deployed to: 0x91a0570a8CCaA2Ee0e9132043c583C7c1127D764
+
